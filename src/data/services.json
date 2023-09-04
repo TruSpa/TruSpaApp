@@ -1,0 +1,58 @@
+[
+    {
+      "title": "Full Body Chinese Massage",
+      "services": [
+        {
+          "duration": "60 min",
+          "cost": "SGD 68"
+        },
+        {
+          "duration": "90 min",
+          "cost": "SGD 102"
+        },
+        {
+          "duration": "120 min",
+          "cost": "SGD 138"
+        }
+      ],
+      "imgsrc": "/TruSpaApp/services/1.jpg"
+    },
+    {
+      "title": "Hot oil and Meridian Massage with Essential Oil",
+      "services": [
+        {
+          "duration": "60 min",
+          "cost": "SGD 89"
+        },
+        {
+          "duration": "90 min",
+          "cost": "SGD 132"
+        },
+        {
+          "duration": "120 min",
+          "cost": "SGD 179"
+        }
+      ],
+      "imgsrc": "/TruSpaApp/services/2.jpg"
+    },
+    {
+      "title": "Ear Candling",
+      "services": [
+        {
+          "duration": "20 min",
+          "cost": "SGD 29"
+        }
+      ],
+      "imgsrc": "/TruSpaApp/services/3.jpg"
+    },
+    {
+      "title": "Ear Refreshing",
+      "services": [
+        {
+          "duration": "30 min",
+          "cost": "SGD 36"
+        }
+      ],
+      "imgsrc": "/TruSpaApp/services/4.jpg"
+    }
+  ]

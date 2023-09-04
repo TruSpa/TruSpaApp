@@ -1,0 +1,11 @@
+{
+  "openning_hour": [
+    "Monday - Sunday, 9AM - 10:30PM"
+  ],
+  "address": "Blk 226E Ang Mo Kio Ave 1, #01-705, Singapore 565226",
+  "contact_details":[
+    {"title":"WhatsApp", "number":"83850363"},
+    {"title":"Hotline", "number":"69900037"}
+  ],
+  "email":"Tru3spa@gmail.com"
+}

@@ -1,0 +1,315 @@
+@import './base.css';
+
+body {
+  background: black;
+  color: #F5F5F5;
+}
+
+.nav-item {
+  font-size: 1.1em !important;
+}
+
+.tru-main-header {
+  text-align: center;
+  font-family: Switzer-Semibold;
+  font-size: 6em;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.tru-main-text-sizer {
+  font-size: 1.6em;
+}
+
+.tru-sub-font {
+  font-family: Supreme-Bold;
+  color: #198754;
+}
+
+.tru-hour-header {
+  text-align: center;
+  font-family: Switzer-Semibold;
+}
+
+.tru-signature {
+  font-family: AgreementSignature;
+  font-size: 2em !important;
+  color: white !important;
+}
+
+.tru-heavy-font-weight {
+  font-weight: 700;
+}
+
+.tru-spacer-divider {
+  width: 100%;
+  height: 6rem;
+  border-width: 1px 0;
+}
+
+.tru-margin-top-spacer {
+  margin-top: 100px;
+}
+
+.tru-icon-style-search {
+  color: white;
+  font-size: 1.1em;
+  position: relative;
+  top: -2px;
+}
+
+.tru-icon-style-ws {
+  color: white;
+  font-size: 1.2em;
+  position: relative;
+  top: -2px;
+}
+
+.tru-icon-style-map {
+  color: #DC3545;
+  font-size: 1.2em;
+  position: relative;
+  top: -2px;
+}
+
+.tru-icon-style-phone {
+  color: black;
+  font-size: 0.9em;
+  position: relative;
+  top: -2px;
+}
+
+.tru-reviev-img {
+  height: 100% !important;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.tru-view-btn {
+  cursor: pointer;
+  text-decoration: none;
+
+  &:hover .tru-icon-style-arrow-right {
+    left: 20px;
+  }
+}
+
+.tru-icon-style-arrow-right {
+  padding-left: 6px;
+  position: relative;
+  top: 4px;
+  left: 5px;
+  font-size: 1.4em;
+  transition: 1s;
+}
+
+.tru-icon-style-search-cust {
+  color: white;
+}
+
+.tru-spacer-tb {
+  margin: 60px 0 100px 0;
+}
+
+.tru-card {
+  background: #0C0C0C;
+}
+
+.tru-card-quote {
+  font-size: 1.6em;
+  color: white;
+  transition: 0.3s;
+}
+
+.tru-card p,
+.tru-card h5 {
+  color: white;
+}
+
+.tru-card:hover {
+  .tru-card-quote {
+    color: #198754;
+  }
+}
+
+.contact-us-item {
+  height: calc(40vh - 100px);
+}
+
+.contact-us-img {
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+  height: calc(40vh - 100px);
+}
+
+.tru-footer-style {
+  border-top: 1px solid white;
+}
+
+.tru-footer-style h5,
+.tru-footer-style a,
+.tru-footer-style p {
+  color: white !important;
+}
+
+.tru-sub-nav>li>a {
+  color: #808080 !important;
+  transition: 0.3s;
+
+  &:hover {
+    color: white !important;
+  }
+}
+
+.tru-footer-font {
+  font-family: Supreme-Bold;
+  color: white;
+}
+
+.shadow-sm {
+  height: 470px;
+  background-color: #0C0C0C;
+}
+
+.main-div {
+  text-align: center;
+}
+
+
+.service_img {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+}
+.service_img_therapist {
+  width: 100%;
+  min-height: 100%;
+}
+
+.item-div {
+  border-top: 2px solid;
+  background: #0C0C0C;
+}
+
+.dur-cost-div {
+  position: absolute;
+  bottom: 8px;
+  font-size: 18px;
+  width: 100%;
+  background: #0C0C0C;
+}
+
+.tru-separator::before {
+  content: '|';
+  position: relative;
+  right: 25px;
+  color: white;
+}
+
+.main-div {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-bottom: 60px;
+}
+
+.header-div {
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  color: black;
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.services-div {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+  border-bottom: 1px dotted;
+}
+
+.left-div {
+  text-align: left;
+  margin-bottom: 10px;
+  width: 74%;
+
+}
+
+.right-div {
+  text-align: right;
+  margin-bottom: 10px;
+  align-self: flex-end;
+  width: 26%;
+}
+
+.data-Title {
+  font-size: 25px;
+}
+
+.data-Duration {
+  color: gray;
+  font-size: 22px;
+}
+
+.data-Cost {
+  border-left: 1px double;
+  font-size: 22px;
+}
+
+/* For Mobile only */
+@media only screen and (max-width: 1465px) {
+  .tru-main-header {
+    font-size: 4.2em;
+  }
+
+  .tru-main-text-sizer {
+    font-size: 1.1em;
+  }
+
+  .header-div {
+    font-size: 20px;
+  }
+
+  .data-Title {
+    font-size: 16px;
+  }
+
+  .data-Duration {
+    color: white;
+    font-size: 16px;
+  }
+
+  .data-Cost {
+    border-left: 1px double;
+    font-size: 14px;
+  }
+
+}
+
+@media only screen and (max-width: 1138px) {
+  .tru-heavy-font-weight {
+    font-weight: 500;
+  }
+
+}
+
+
+@media only screen and (max-width: 767px) {
+  .tru-footer-logo {
+    width: 200px !important;
+    display: block;
+  }
+
+  .tru-footer-style {
+    text-align: center;
+  }
+
+  .tru-reviev-img {
+    object-fit: contain;
+    height: auto !important;
+  }
+
+}

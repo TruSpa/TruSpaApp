@@ -1,0 +1,27 @@
+{
+    "intro_text": "Relax, unwind, and experience the ultimate oasis of wellness. Let our skilled hands and soothing ambiance transport you to a world of pure bliss. Trust us to elevate your senses and nurture your well-being.",
+    "signature_text": "The Calm Within",
+    "TruSpa_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6835276682564!2d103.83976609999999!3d1.3665629000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da174971f88ebb%3A0xed6a3de9028360c6!2sTru%20spa!5e0!3m2!1sen!2ssg!4v1692395814379!5m2!1sen!2ssg",
+    "google_reviews_url": "https://www.google.com/maps/place/226E+Ang+Mo+Kio+Ave+1,+%2301+705,+Singapore+565226/@1.3665629,103.8371912,17z/data=!3m1!4b1!4m5!3m4!1s0x31da16df271c772d:0xf45113b8056857e6!8m2!3d1.3665629!4d103.8397661?entry=ttu",
+    "display_page_rule": {
+        "display_aboutUs_page": "true",
+        "display_therapists_page": "true",
+        "display_services_page": "true"
+    },
+    "social_icon_img": {
+        "tiktok": {
+            "link": "https://www.tiktok.com/@truspa_amk",
+            "imgPath": "/TruSpaApp/icons/tiktok.svg"
+        },
+        "whatsApp": {
+            "link": "https://www.facebook.com/profile.php?id=100088437044083",
+            "imgPath": "/TruSpaApp/icons/facebook.svg"
+        },
+        "instagram": {
+            "link": "https://www.instagram.com/truspa_amk/",
+            "imgPath": "/TruSpaApp/icons/instagram.svg"
+        }
+    },
+    "header_text_therapist": "Mind-Body Therapist"
+    ,"intro_text_therapist": "Meet our compassionate therapist who is dedicated to helping you find inner peace and healing through personalized counseling and support. With years of experience and a deep understanding of the human mind, they are committed to guiding you on your journey to emotional well-being and self-discovery."
+}

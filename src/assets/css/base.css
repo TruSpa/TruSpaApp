@@ -1,0 +1,16 @@
+/* Font */
+@font-face {
+    font-family: Switzer-Semibold;
+    src: url(../fonts/Switzer-Semibold.otf);
+}
+
+@font-face {
+    font-family: Supreme-Bold;
+    src: url(../fonts/Supreme-Bold.otf);
+}
+
+@font-face {
+    font-family: AgreementSignature;
+    src: url(../fonts/AgreementSignature.ttf);
+}
+
