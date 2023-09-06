@@ -11,15 +11,15 @@
     "social_icon_img": {
         "tiktok": {
             "link": "https://www.tiktok.com/@truspa_amk",
-            "imgPath": "/TruSpaApp/icons/tiktok.svg"
+            "imgPath": "/icons/tiktok.svg"
         },
         "whatsApp": {
             "link": "https://www.facebook.com/profile.php?id=100088437044083",
-            "imgPath": "/TruSpaApp/icons/facebook.svg"
+            "imgPath": "/icons/facebook.svg"
         },
         "instagram": {
             "link": "https://www.instagram.com/truspa_amk/",
-            "imgPath": "/TruSpaApp/icons/instagram.svg"
+            "imgPath": "/icons/instagram.svg"
         }
     },
     "header_text_therapist": "Mind-Body Therapist"
