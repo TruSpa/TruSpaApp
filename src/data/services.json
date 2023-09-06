@@ -15,7 +15,7 @@
           "cost": "SGD 138"
         }
       ],
-      "imgsrc": "/TruSpaApp/services/1.jpg"
+      "imgsrc": "/services/1.jpg"
     },
     {
       "title": "Hot oil and Meridian Massage with Essential Oil",
@@ -33,7 +33,7 @@
           "cost": "SGD 179"
         }
       ],
-      "imgsrc": "/TruSpaApp/services/2.jpg"
+      "imgsrc": "/services/2.jpg"
     },
     {
       "title": "Ear Candling",
@@ -43,7 +43,7 @@
           "cost": "SGD 29"
         }
       ],
-      "imgsrc": "/TruSpaApp/services/3.jpg"
+      "imgsrc": "/services/3.jpg"
     },
     {
       "title": "Ear Refreshing",
@@ -53,6 +53,6 @@
           "cost": "SGD 36"
         }
       ],
-      "imgsrc": "/TruSpaApp/services/4.jpg"
+      "imgsrc": "/services/4.jpg"
     }
   ]
