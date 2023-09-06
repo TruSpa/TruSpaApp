@@ -23,9 +23,10 @@ import therapistsUtils from '@/utils/therapists.js'
                         {{ commonUtils.comData().data.signature_text }}
                     </figcaption>
                     <div class="d-grid d-flex justify-content-center">
-                        <button type="button" class="btn btn-success btn-lg me-3 heavy-font-weight"><font-awesome-icon
+                        <a type="button" :href="'tel:+65' + hourUtils.getData().data.contact_details[0].number"
+                            class="btn btn-success btn-lg me-3 heavy-font-weight"><font-awesome-icon
                                 icon="fa-brands fa-whatsapp" class="align-middle tru-icon-style-ws pe-1" /> Book
-                            Now</button>
+                            Now</a>
                         <a type="button" :href="'tel:+65' + hourUtils.getData().data.contact_details[1].number"
                             class="btn btn-light btn-lg heavy-font-weight"><font-awesome-icon
                                 icon="fa-solid fa-phone-volume" class="align-middle tru-icon-style-phone pe-1" /> Call
@@ -41,8 +42,7 @@ import therapistsUtils from '@/utils/therapists.js'
     <p class="tru-main-header lh-1">Matching You with the Perfect Therapist</p>
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="mt-3 col-xs-5 col-sm-5 col-md-4 col-lg-4 col-xl-3"
-                v-for="data in therapistsUtils.getData()">
+            <div class="mt-3 col-xs-5 col-sm-5 col-md-4 col-lg-4 col-xl-3" v-for="data in therapistsUtils.getData()">
                 <div>
                     <img :src="therapistsUtils.getImageUrl(data.imgsrc)" class="img-fluid">
                 </div>
