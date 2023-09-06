@@ -4,15 +4,15 @@
       "services": [
         {
           "duration": "60 min",
-          "cost": "SGD 68"
+          "cost": "SGD 58"
         },
         {
           "duration": "90 min",
-          "cost": "SGD 102"
+          "cost": "SGD 87"
         },
         {
           "duration": "120 min",
-          "cost": "SGD 138"
+          "cost": "SGD 116"
         }
       ],
       "imgsrc": "/services/1.jpg"
@@ -22,7 +22,7 @@
       "services": [
         {
           "duration": "60 min",
-          "cost": "SGD 89"
+          "cost": "SGD 88"
         },
         {
           "duration": "90 min",
@@ -30,7 +30,7 @@
         },
         {
           "duration": "120 min",
-          "cost": "SGD 179"
+          "cost": "SGD 176"
         }
       ],
       "imgsrc": "/services/2.jpg"
@@ -54,5 +54,14 @@
         }
       ],
       "imgsrc": "/services/4.jpg"
+    },
+    {
+      "title": "Cupping",
+      "services": [
+        {
+          "duration": "30 min",
+          "cost": "SGD 18"
+        }
+      ]
     }
   ]
