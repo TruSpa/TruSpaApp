@@ -39,7 +39,7 @@
       "title": "Ear Candling",
       "services": [
         {
-          "duration": "20 min",
+          "duration": "",
           "cost": "SGD 29"
         }
       ],
@@ -59,7 +59,7 @@
       "title": "Cupping",
       "services": [
         {
-          "duration": "30 min",
+          "duration": "",
           "cost": "SGD 18"
         }
       ]
