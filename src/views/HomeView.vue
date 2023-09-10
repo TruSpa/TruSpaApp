@@ -23,7 +23,7 @@ import therapistsUtils from '@/utils/therapists.js'
                         {{ commonUtils.comData().data.signature_text }}
                     </figcaption>
                     <div class="d-grid d-flex justify-content-center">
-                        <a type="button" :href="'tel:+65' + hourUtils.getData().data.contact_details[0].number"
+                        <a type="button" :href="'https://wa.me/65' + hourUtils.getData().data.contact_details[0].number"
                             class="btn btn-success btn-lg me-3 heavy-font-weight"><font-awesome-icon
                                 icon="fa-brands fa-whatsapp" class="align-middle tru-icon-style-ws pe-1" /> Book
                             Now</a>
