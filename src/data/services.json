@@ -4,15 +4,15 @@
       "services": [
         {
           "duration": "60 min",
-          "cost": "SGD 58"
+          "cost": "SGD 68"
         },
         {
           "duration": "90 min",
-          "cost": "SGD 87"
+          "cost": "SGD 102"
         },
         {
           "duration": "120 min",
-          "cost": "SGD 116"
+          "cost": "SGD 136"
         }
       ],
       "imgsrc": "/services/1.jpg"
@@ -26,11 +26,11 @@
         },
         {
           "duration": "90 min",
-          "cost": "SGD 132"
+          "cost": "SGD 129"
         },
         {
           "duration": "120 min",
-          "cost": "SGD 176"
+          "cost": "SGD 173"
         }
       ],
       "imgsrc": "/services/2.jpg"
