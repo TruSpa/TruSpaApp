@@ -1,22 +1,5 @@
 [
-    {
-      "title": "Full Body Chinese Massage",
-      "services": [
-        {
-          "duration": "60 min",
-          "cost": "SGD 68"
-        },
-        {
-          "duration": "90 min",
-          "cost": "SGD 102"
-        },
-        {
-          "duration": "120 min",
-          "cost": "SGD 136"
-        }
-      ],
-      "imgsrc": "/services/1.jpg"
-    },
+
     {
       "title": "Hot oil Massage",
       "services": [
